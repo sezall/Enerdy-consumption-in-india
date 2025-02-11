@@ -1,1 +1,1 @@
-# Enerdy-consumption-in-india
+# Energy-consumption-in-india
