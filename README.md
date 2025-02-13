@@ -4,13 +4,13 @@ This is a Regression project which aims to analyse the electricity generation in
 
 
 **Modules/Packages Used**
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Calendar
-Sklearn
-Streamlit
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. Calendar
+6. Sklearn
+7. Streamlit
 
 
 
